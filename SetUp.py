@@ -1,4 +1,3 @@
-@ -0,0 +1,76 @@
 import os
 import platform
 import requests
